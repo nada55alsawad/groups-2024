@@ -1,3 +1,10 @@
+- name: "SSH GROUP FNOS"
+  members:
+   - "2517716"
+   - "2512757"
+   - "2432191"
+   - "2449556"
+   
 - name: "alt+255"
   members:
     - "2615984"
